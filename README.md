@@ -9,7 +9,7 @@ This application fetches historical gold price data using Yahoo Finance API, per
 1. **Gold Price Analysis**: Presents historical price trends, volatility analysis, moving averages, and support/resistance levels
 2. **Gold Price Prediction**: Uses ARIMA (AutoRegressive Integrated Moving Average) models to forecast future prices
 
-![Gold Price Trend](https://i.imgur.com/sample_image1.jpg)
+![Ekran görüntüsü 2025-04-08 230418](https://github.com/user-attachments/assets/e52263f7-13ab-4414-8499-d8a56f651ebe)
 
 ## Features
 
@@ -286,6 +286,10 @@ The model combines three components:
 1. **AR(p)**: Regression of the time series on its own past values
 2. **I(d)**: Differencing to make series stationary
 3. **MA(q)**: Dependency between observation and residual error from moving average model
+
+![Ekran görüntüsü 2025-04-08 230451](https://github.com/user-attachments/assets/42580574-c4ae-421a-bb02-7157abefdca2)
+![Ekran görüntüsü 2025-04-08 230434](https://github.com/user-attachments/assets/d91131e7-37eb-4d86-a566-d8a351cb92fe)
+
 
 ## Disclaimer
 
